@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+    margin: 10px;
+    flex-direction: column;
+}
